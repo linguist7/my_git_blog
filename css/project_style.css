@@ -10,9 +10,10 @@ html, body{
     font-family: 'Noto Serif KR', serif;
 }
 .text_title{
+    background-color: skyblue;
     font-size: 40px;
     font-weight: bold;
-    color: saddlebrown;
+    color: snow;
     margin-bottom: 10px;
     font-family: 'DynaPuff', cursive;
     font-family: 'Noto Serif KR', serif;
@@ -31,7 +32,7 @@ html, body{
     padding: 0.2em 0.4em;
     font-size: 25px;
     background-color: saddlebrown;
-    border-radius: 20px 20px 0px 0px;
+    border-radius: 20px;
     margin-bottom: 10px;
     color: white;
     font-weight: bold;
@@ -41,6 +42,9 @@ html, body{
 .content_list{
     display: inline-block;
     list-style-type: none;
-    
-    
+}
+.content_text{
+    text-align: left;,
+    font-family: 'DynaPuff', cursive;
+    font-family: 'Noto Serif KR', serif;
 }
