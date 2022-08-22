@@ -45,7 +45,14 @@ html, body{
     list-style-type: none;
 }
 .content_text{
+    font-size: 15px;,
     text-align: left;,
+    font-family: 'DynaPuff', cursive;
+    font-family: 'Noto Serif KR', serif;
+}
+.paper_text{
+    font-size: 25px;,
+    text-align: center;,
     font-family: 'DynaPuff', cursive;
     font-family: 'Noto Serif KR', serif;
 }
